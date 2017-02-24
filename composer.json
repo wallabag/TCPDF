@@ -1,6 +1,6 @@
 {
     "name": "wallabag/tcpdf",
-    "homepage": "http://www.wallabag.org/",
+    "homepage": "https://www.wallabag.org/",
     "type": "library",
     "description": "Keeping a working 6.2.x TCPDF version.",
     "keywords": [
@@ -16,7 +16,7 @@
     "authors": [
         {
             "name": "wallabag/core",
-            "homepage": "http://www.wallabag.org",
+            "homepage": "https://www.wallabag.org",
             "role": "Developers"
         },
         {
